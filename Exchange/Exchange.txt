@@ -1,1 +1,1 @@
-Get-Service | fl
+Get-Service | Format-List
